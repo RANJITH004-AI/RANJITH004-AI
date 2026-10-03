@@ -103,7 +103,7 @@ I'm documenting my cybersecurity journey and turning what I learn into practical
 ## 📫 Connect With Me
 
 - **GitHub:** [RANJITH004-AI](https://github.com/RANJITH004-AI)
-- **LinkedIn:** Add your LinkedIn profile link here
+- **LinkedIn:** www.linkedin.com/in/kotni-ranjith
 
 ---
 
